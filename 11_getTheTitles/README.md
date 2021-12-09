@@ -24,3 +24,5 @@ getTheTitles(books) // ['Book','Book2']
 ## Hints
 
 - You should use a built-in javascript method to do most of the work for you!
+
+~COMPLETED~

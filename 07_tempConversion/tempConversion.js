@@ -1,3 +1,5 @@
+// ~COMPLETED~
+
 const ftoc = function(tempF) {
   let tempC = (tempF - 32) * (5/9);
   return Math.round(tempC * 10) / 10;

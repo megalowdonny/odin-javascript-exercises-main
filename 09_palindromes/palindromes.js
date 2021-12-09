@@ -1,3 +1,4 @@
+// ~COMPLETED~
 /*For this one I got extra cheeky. I wanted all of my operations to be done
 within self-made functions, rather than doing them out in the open. So there's
 a separate function for getting the array of the original string minus the 

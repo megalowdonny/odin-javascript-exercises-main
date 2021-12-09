@@ -1,3 +1,5 @@
+// ~COMPLETED~
+
 const sumAll = function(x, y) {
   let sum = 0;
   if (x < 0 || y < 0 || Number.isInteger(x) === false || Number.isInteger(y) === false) {

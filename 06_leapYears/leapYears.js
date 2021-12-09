@@ -1,3 +1,5 @@
+// ~COMPLETED~
+
 /* Originally I had 3 if conditions nested together, but I was able to consolidate it into one if
 statement after seeing that suggested in the README.*/
 

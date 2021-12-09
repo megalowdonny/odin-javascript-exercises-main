@@ -1,3 +1,4 @@
+// ~COMPLETED~
 /*It's pretty easy to just make each of these functions individually, but I wanted to try to 
 use any more basic functions as the method for accomplishing the more complicated ones,
 and I was able to do */

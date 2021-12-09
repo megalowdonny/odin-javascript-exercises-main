@@ -1,3 +1,5 @@
+// ~COMPLETED~
+
 const reverseString = function(str) {
   return Array.from(str).reverse().join('');
 

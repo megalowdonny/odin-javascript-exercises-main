@@ -15,3 +15,5 @@ This exercise asks you to create more than one function so the `module.exports` 
 - You can find the relevant formulae on [Wikipedia](https://en.wikipedia.org/wiki/Conversion_of_units_of_temperature).
 
 - Try to find by yourself on the Internet how to round a number to 1 decimal place in JavaScript. If you struggle, have a look [here](https://stackoverflow.com/q/7342957/5433628).
+
+~COMPLETED~

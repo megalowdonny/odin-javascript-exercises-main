@@ -1,3 +1,5 @@
+// ~COMPELTED~
+
 const removeFromArray = function(arr) {
   let arrayArg = arr;
   let argList = Array.from(arguments);
